@@ -22,3 +22,9 @@ pip install -r requirements.txt
 langchain==0.0.225
 ctransformers==0.2.5
 ```
+
+### Steps 3:
+
+```bash
+python run_model.py
+```

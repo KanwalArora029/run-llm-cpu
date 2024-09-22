@@ -13,3 +13,8 @@ conda activate llmapp
 ```bash
 pip install -r requirements.txt
 ```
+
+```bash
+langchain==0.0.225
+ctransformers==0.2.5
+```
